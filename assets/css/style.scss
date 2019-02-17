@@ -3,7 +3,9 @@
 
 @import "{{ site.theme }}";
 body {
-font-family: "Microsoft YaHei";
+  font-family: "Microsoft YaHei";
+  font-weight: 400;
 }
 
 .pagebreak { page-break-before: always; } 
+
